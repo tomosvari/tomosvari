@@ -2,7 +2,7 @@
 - 👀 I’m interested in linux, system architecture and management
 - Infrastructure enthusiast exploring Cloud-native solutions and AI integration.
 - 🌱 I’m currently learning Python and HomeAssistant home automation system
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Cloud infrastructure automation and DevOps projects
 - 📫 How to reach me ...
 
 <!---
